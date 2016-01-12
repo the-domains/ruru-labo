@@ -1,7 +1,7 @@
 name: ruru labo
 favicon: null
-layout_spectrum: 0.99748
-typography_spectrum: 0.30703
+layout_spectrum: 0.9906231581699103
+typography_spectrum: 0.6317979821469635
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 1
-  lightness: 0.5625
-  saturation: 0.5
+  brandStrength: 0.9778141244314611
+  lightness: 0.7662726182024926
+  saturation: 0.24886542675085366
   rhythmicContrast: 0.5518760038539767
 purpose: []
